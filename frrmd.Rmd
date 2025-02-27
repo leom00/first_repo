@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: html_document
+date: "2025-02-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My "first" versione controlled project in Rstudio.
+```{r, test-plot}
+plot(cars) 
+```
